@@ -1,2 +1,6 @@
-# lol_stats
-League of Legends Stats
+# League of Legends Stats
+
+-- Özellikler --
+
+-Oyun Tanıma
+-Otomatik istatistik bilgileri.
