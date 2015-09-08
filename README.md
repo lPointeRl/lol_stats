@@ -2,5 +2,5 @@
 
 -- Özellikler --
 
--Oyun Tanıma
--Otomatik istatistik bilgileri.
+- Oyun Tanıma
+- Otomatik istatistik bilgileri.
